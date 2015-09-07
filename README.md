@@ -92,3 +92,5 @@ The automated tests depend on [Phantomjs](http://phantomjs.org/). Make sure you 
 
 ##Need help?
 Contact us through our [Google Group](https://groups.google.com/forum/#!forum/app-inventor-open-source-dev) or [G+ community](https://plus.google.com/u/0/b/116831753302186936352/116831753302186936352/posts).
+
+hello everyone.
